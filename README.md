@@ -24,21 +24,20 @@ Este proyecto forma parte del desafío de análisis de datos de **Alura LATAM**.
 
 Tras analizar todas las variables, se recomendó al Sr. Juan vender la **Tienda 4**, debido a su bajo desempeño en ingresos y calificación, sin destacar significativamente en ningún otro aspecto que justifique mantenerla.
 
-##Cómo Usar Este Proyecto
+## Cómo Usar Este Proyecto
 
-1. **Clonar el repositorio:**
+**Clonar el repositorio:**
 
    ```bash
    git clone https://github.com/adcrx/alura-store-desafio.git
    cd alura-store-desafio
-Abrir el archivo del notebook:
 
-Usar Google Colab: Abrir en Colab
+**Abrir el archivo del notebook:**
 
-O abrir localmente en Jupyter Notebook o VS Code.
+Usar Google Colab: Abrir en Colab o abrir localmente en Jupyter Notebook o VS Code.
 
-Ejecutar las celdas:
+**Ejecutar las celdas:**
 
 El notebook ya contiene los enlaces a los datos originales.
 
-**##Ejecutalas celdas una por una para reproducir el análisis**
+**## Ejecutalas celdas una por una para reproducir el análisis**
