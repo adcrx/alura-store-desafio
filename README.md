@@ -1,4 +1,6 @@
-Alura Store Challenge!
+# **ALURA STORE CHALLENGE!**
+
+
 
 Este proyecto forma parte del desafío de análisis de datos de **Alura LATAM**. El objetivo principal es asistir al Sr. Juan en la decisión sobre cuál de sus cuatro tiendas debería vender, utilizando análisis de datos y visualizaciones que respalden esa recomendación.
 
@@ -26,18 +28,12 @@ Tras analizar todas las variables, se recomendó al Sr. Juan vender la **Tienda 
 
 ## Cómo Usar Este Proyecto
 
-**Clonar el repositorio:**
+- Clona el repositorio con:
+  - `git clone https://github.com/adcrx/alura-store-desafio.git`
+  - `cd alura-store-desafio`
 
-   ```bash
-   git clone https://github.com/adcrx/alura-store-desafio.git
-   cd alura-store-desafio
+- Abre el archivo:
+  - `AluraStoreChallenge.ipynb` en Google Colab, Jupyter Notebook o VS Code.
 
-**Abrir el archivo del notebook:**
-
-Usar Google Colab: Abrir en Colab o abrir localmente en Jupyter Notebook o VS Code.
-
-**Ejecutar las celdas:**
-
-El notebook ya contiene los enlaces a los datos originales.
-
-**## Ejecutalas celdas una por una para reproducir el análisis**
+- Ejecuta el análisis:
+  - Corre las celdas en orden. Los datos se cargan automáticamente desde internet.
